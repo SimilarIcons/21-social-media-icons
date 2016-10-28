@@ -1,6 +1,6 @@
 <h1>CSS Social Media Icons</h1>
 
-<p>21 Smooth CSS Social Media Icons with different sizes and colors.</p>
+<p>21 Smooth CSS Social Media Icons with different sizes and colors. We used Font awesome social brand icons and 30x30 - 40x40 - 80x80 - 100x100 icon sizes. If you want to make more bigger just create new class for new sizes.</p>
 
 <p>Designed by : <a href="https://www.similaricons.com">Similar Icons</a></p>
 
