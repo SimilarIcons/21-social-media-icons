@@ -6,8 +6,15 @@
 
 <p>Font Icons included by : <a href="http://fontawesome.io/">Font Awesome</a></p>
 
-<p>If you have any issue while using please keep contact us via: <br>
-• Helpdesk: https://www.similaricons.com/contact <br>
-• Email: Send us at info[at]similaricons.com</p>
+<p>If you have any issue while using please keep contact us via:</p>
+
+<ul>
+<li>Helpdesk: https://www.similaricons.com/contact</li>
+<li>Email: Send us at info[at]similaricons.com</li>
+</ul>
+
+<h2>Live Preview</h2>
+
+<img src="https://www.similaricons.com/wp-content/uploads/2016/10/github-social-icons.png" alt="">
 
 <p>Online demo : <a href="https://www.similaricons.com/demos/icons/smooth-social-media-icons">https://www.similaricons.com/demos/icons/smooth-social-media-icons</a>
